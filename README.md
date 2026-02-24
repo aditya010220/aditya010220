@@ -1,5 +1,10 @@
 # 💫 About Me:
-MERN, AI platforms, Next.js projects & DSA  <br>Web apps, SaaS ideas, open source & hackathons <br>Advanced DSA, system design, DevOps & AI basics<br>C++, TypeScript, Next.js, DevOps & scalable systems <br>MERN stack, UI/UX, interviews & project building <br>Stay Cursed. Stay Coding.
+⚡ Building: MERN empires, AI-driven platforms, Next.js experiences & DSA dominance <br>
+🔥 Collaborating on: Scalable web apps, disruptive SaaS, open source & elite hackathons <br>
+🧠 Mastering: Advanced DSA, system design warfare, DevOps pipelines & AI foundations <br>
+🚀 Evolving in: C++, TypeScript, Next.js, cloud systems & scalable architectures <br>
+💬 Talk to me about: MERN engineering, UI/UX precision, interview strategy & product execution <br>
+☠️ Stay Cursed. Stay Coding.
 
 
 ## 🌐 Socials:
