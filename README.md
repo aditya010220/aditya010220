@@ -58,11 +58,6 @@
 </p>
 
 <p align="center">
-  <i>"Build systems. Break limits. Outgrow yesterday."</i><br>
-  <i>"Stay Cursed. Stay Coding. Stay Consistent."</i><br>
-</p>
-
-<p align="center">
   <a href="https://www.holopin.io/@aditya010220">
     <img src="https://holopin.me/aditya010220" alt="Holopin badges" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);"/>
   </a>
